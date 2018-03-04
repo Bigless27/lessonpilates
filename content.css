@@ -1111,7 +1111,7 @@ a {
 }
 
 .w3-animate-opacity {
-    animation: opac 0.8s
+    animation: opac 1.2s
 }
 
 @keyframes opac {

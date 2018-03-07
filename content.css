@@ -129,6 +129,15 @@ hr {
     overflow: visible
 }
 
+.call-now-button {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    font-size: 18px
+}
+
 button,
 input,
 select,
@@ -143,6 +152,10 @@ optgroup {
 
 .bold {
     font-weight: bold;
+}
+
+.underline {
+    text-decoration: underline;
 }
 
 button,
